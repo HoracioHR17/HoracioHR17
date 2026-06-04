@@ -1,150 +1,207 @@
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZiN2pmanBhMGQwZGM0MG9vNjFuc2M3NHRzcXZ0NWNlN3Y4OHRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gI7Nlpl4Qsd7jol7Wb/giphy.gif"  />
+<div align="center">
 
-###
+<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZiN2pmanBhMGQwZGM0MG9vNjFuc2M3NHRzcXZ0NWNlN3Y4OHRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gI7Nlpl4Qsd7jol7Wb/giphy.gif" />
 
-<h1 align="left">Hey 👋 I'm Horacio!</h1>
+<h1>Ángel Horacio Hernández Ramírez</h1>
+<h3>@ HoracioHR17</h3>
 
-###
+<p>
+  "Al final, todo estará bien y si no está bien, no hemos llegado al final."
+</p>
 
-<p align="left">🎓 Estudiante de Ingeniería en Sistemas Computacionales apasionado por el desarrollo de soluciones innovadoras aplicando ingeniería de software, desarrollo y entrenamiento de modelos de inteligencia artificial y visión por computadora.</p>
+<br/>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">💻 Me especializo en el desarrollo de aplicaciones web y móviles, integración y consumo de APIs, diseño e implementación de bases de datos y automatización de procesos mediante herramientas de IA.<br><br>🚀 Interesado en:<br><br>Machine Learning<br>Deep Learning<br>Computer Vision<br>Data Science<br>Desarrollo Full Stack<br>Desarrollo móvil multiplataforma<br>Automatización e IA aplicada<br>Desarrollo de sistemas embebidos e integración de IoT</p>
-
-###
-
-<h2 align="left">Technologies and Tools</h2>
-
-###
-
-<p align="left">Programming Languages</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
-
-###
-
-<p align="left">Frameworks and Technologies</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-</div>
-
-###
-
-<p align="left">AI and Data Science</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-</div>
-
-###
-
-<p align="left">Development Tools</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
-
-<h2 align="left">Achievments</h2>
-
-###
-
-<p align="left">🥈 Segundo Lugar en la Cumbre Nacional de Desarrollo Tecnológico, Emprendimiento e Innovación en su<br>etapa nacional, en la competición de Hackatec, en el reto Resiliencia Ambiental (TECNM InnovaTecNM,<br>2025).<br>🥇 Primer Lugar en el Concurso Nacional de Prototipos y Proyectos de Emprendimiento en su etapa estatal, en<br>la categoría de Desarrollo Tecnológico (DGETI, 2023).<br>🥇 Primer Lugar en la Cumbre Nacional de Desarrollo Tecnológico, Emprendimiento e Innovación en su etapa<br>local, en la competición de Hackatec, en el reto Ecosistemas de Desarrollo (TECNM InnovaTecNM, 2026).<br>📜 Scrum Fundamentals Certified (SCRUMStudy, 2023).</p>
-
-###
-
-<h2 align="left">Featured Projects</h2>
-
-###
-
-<p align="left">♻️ EcoTec: Sistema de Recolección y Ecotecnología<br><br>Aplicación móvil desarrollada con Flutter conectada a un sistema web de recompensas por reciclaje mediante registro de residuos PET y aluminio.<br><br>🌱 BioPred: Maximización de generación de energías verdes con biomasa para la industria a través de un modelo predictivo de IA.<br><br>Interfaz web desarrollada con Vue.js para visualización y consumo de una API de predicción de biomasa.<br><br>🎓 Sistema para el control de entrada y salida de alumnos<br><br>Sistema web y móvil para control de acceso y asistencia estudiantil utilizando PHP, Kotlin y RFID.<br><br>🌊 AXOCyT: Al rescate de la cuenca Lerma-Chapala-Santiago<br><br>Desarrollo de una aplicación móvil con Flutter para el monitoreo y reporte de incidencias ambientales por parte de ciudadanos.</p>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/angel-horacio-hernandez-ramirez-436195272" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<div>
+  <a href="https://www.linkedin.com/in/angel-horacio-hernandez-ramirez-436195272">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://discord.com/channels/horaciohr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://www.instagram.com/horaciohr17/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/bold.equation.9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <a href="https://www.facebook.com/bold.equation.9/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/horaciohr17/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://discord.com/channels/horaciohr">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
   </a>
 </div>
 
-###
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=3&section=header" width="100%"/>
+
+---
+
+## 👨‍💻 Sobre mí
+
+🎓 Estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Veracruz (ITVER), apasionado por el desarrollo de software, inteligencia artificial y visión por computadora.
+
+💡 He desarrollado soluciones web y móviles orientadas a automatización, análisis de datos, sistemas inteligentes y problemáticas ambientales reales, participando en competencias nacionales de innovación tecnológica como Hackatec e InnovaTecNM.
+
+🚀 Me enfoco principalmente en:
+
+Desarrollo Full Stack · Inteligencia Artificial · Machine Learning & Deep Learning · Computer Vision · Data Science · Desarrollo móvil multiplataforma · Integración de APIs y automatización
+
+📌 Actualmente explorando tecnologías relacionadas con IA aplicada, automatización inteligente, arquitecturas backend modernas y modelos predictivos.
+
+---
+
+## 🏆 Logros
+
+<div align="center">
+
+| | Premio | Descripción | Año |
+|:---:|:---|:---|:---:|
+| 🥇 | **1er Lugar** | Hackatec · Ecosistemas de Desarrollo — TECNM InnovaTecNM (Local) | 2026 |
+| 🥈 | **2do Lugar** | Hackatec · Resiliencia Ambiental — TECNM InnovaTecNM (Nacional) | 2025 |
+| 🥇 | **1er Lugar** | Concurso Nacional de Prototipos y Proyectos de Emprendimiento — DGETI (Estatal) | 2023 |
+| 🥉 | **3er Lugar** | Segundo Festival de Especialidades · Programación — CETIS 15 | 2022 |
+| 📜 | **Certificación** | Scrum Fundamentals Certified — SCRUMStudy | 2023 |
+
+</div>
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### Lenguajes de Programación
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</div>
+
+### Frameworks y Tecnologías
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### IA y Ciencia de Datos
+<div align="center">
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### Herramientas de Desarrollo
+<div align="center">
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ♻️ EcoTec: Sistema de Recolección y Ecotecnología
+
+Aplicación móvil desarrollada con **Flutter** conectada a un sistema web de recompensas por reciclaje mediante registro de residuos PET y aluminio.
+
+`Flutter` `Firebase` `Web App` `IoT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 BioPred: Maximización de generación de energías verdes con biomasa para la industria a través de un modelo predictivo de IA
+
+Interfaz web desarrollada con **Vue.js** para visualización y consumo de una API de predicción de biomasa.
+
+`Vue.js` `Python` `Machine Learning` `REST API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Sistema para el control de entrada y salida de alumnos
+
+Sistema web y móvil para control de acceso y asistencia estudiantil utilizando **PHP**, **Kotlin** y **RFID**.
+
+`PHP` `Kotlin` `RFID` `MySQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌊 AXOCyT: Al rescate de la cuenca Lerma-Chapala-Santiago
+
+Desarrollo de una aplicación móvil con **Flutter** para el monitoreo y reporte de incidencias ambientales por parte de ciudadanos.
+
+`Flutter` `Firebase` `Maps API` `Ciencia Ciudadana`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HoracioHR17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoracioHR17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HoracioHR17&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
+
+</div>
+
+---
+
+## 🐱 Gráfica de Contribuciones
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoracioHR17&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HoracioHR17/HoracioHR17/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HoracioHR17/HoracioHR17/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HoracioHR17/HoracioHR17/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HoracioHR17/HoracioHR17/pacman-output/pacman-contribution-graph.svg" width="100%"/>
 </picture>
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
