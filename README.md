@@ -6,7 +6,7 @@
 <h3>@ HoracioHR17</h3>
 
 <p>
-  "Al final, todo estará bien y si no está bien, no hemos llegado al final."
+  "Despite everything, it's still you."
 </p>
 
 <br/>
@@ -34,37 +34,28 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
+Estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Veracruz (ITVER), apasionado por la ciencia de datos y la inteligencia artificial.
 
-🎓 Estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Veracruz (ITVER), apasionado por el desarrollo de software, inteligencia artificial y visión por computadora.
-
-💡 He desarrollado soluciones web y móviles orientadas a automatización, análisis de datos, sistemas inteligentes y problemáticas ambientales reales, participando en competencias nacionales de innovación tecnológica como Hackatec e InnovaTecNM.
-
-🚀 Me enfoco principalmente en:
-
-Desarrollo Full Stack · Inteligencia Artificial · Machine Learning & Deep Learning · Computer Vision · Data Science · Desarrollo móvil multiplataforma · Integración de APIs y automatización
-
-📌 Actualmente explorando tecnologías relacionadas con IA aplicada, automatización inteligente, arquitecturas backend modernas y modelos predictivos.
-
+He desarrollado soluciones web y móviles orientadas a automatización, análisis de datos, sistemas inteligentes y problemáticas ambientales reales, participando en competencias nacionales de innovación tecnológica lo es el InnovaTecNM.
 ---
 
-## 🏆 Logros
+## Logros
 
 <div align="center">
 
 | | Premio | Descripción | Año |
-|:---:|:---|:---|:---:|
-| 🥇 | **1er Lugar** | Hackatec · Ecosistemas de Desarrollo — TECNM InnovaTecNM (Local) | 2026 |
-| 🥈 | **2do Lugar** | Hackatec · Resiliencia Ambiental — TECNM InnovaTecNM (Nacional) | 2025 |
-| 🥇 | **1er Lugar** | Concurso Nacional de Prototipos y Proyectos de Emprendimiento — DGETI (Estatal) | 2023 |
-| 🥉 | **3er Lugar** | Segundo Festival de Especialidades · Programación — CETIS 15 | 2022 |
-| 📜 | **Certificación** | Scrum Fundamentals Certified — SCRUMStudy | 2023 |
+|:---|:---|:---:|
+| **1er Lugar** | Hackatec · Ecosistemas de Desarrollo — TECNM InnovaTecNM (Local) | 2026 |
+| **2do Lugar** | Hackatec · Resiliencia Ambiental — TECNM InnovaTecNM (Nacional) | 2025 |
+| **1er Lugar** | Concurso Nacional de Prototipos y Proyectos de Emprendimiento — DGETI (Estatal) | 2023 |
+| **3er Lugar** | Segundo Festival de Especialidades · Programación — CETIS 15 | 2022 |
 
 </div>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 ### Lenguajes de Programación
 <div align="center">
@@ -122,7 +113,7 @@ Desarrollo Full Stack · Inteligencia Artificial · Machine Learning & Deep Lear
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
 
 <div align="center">
 
@@ -130,7 +121,7 @@ Desarrollo Full Stack · Inteligencia Artificial · Machine Learning & Deep Lear
 <tr>
 <td width="50%" valign="top">
 
-### ♻️ EcoTec: Sistema de Recolección y Ecotecnología
+### EcoTec: Sistema de Recolección y Ecotecnología
 
 Aplicación móvil desarrollada con **Flutter** conectada a un sistema web de recompensas por reciclaje mediante registro de residuos PET y aluminio.
 
@@ -139,7 +130,7 @@ Aplicación móvil desarrollada con **Flutter** conectada a un sistema web de re
 </td>
 <td width="50%" valign="top">
 
-### 🌱 BioPred: Maximización de generación de energías verdes con biomasa para la industria a través de un modelo predictivo de IA
+### BioPred: Maximización de generación de energías verdes con biomasa para la industria a través de un modelo predictivo de IA
 
 Interfaz web desarrollada con **Vue.js** para visualización y consumo de una API de predicción de biomasa.
 
@@ -150,7 +141,7 @@ Interfaz web desarrollada con **Vue.js** para visualización y consumo de una AP
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Sistema para el control de entrada y salida de alumnos
+### Sistema para el control de entrada y salida de alumnos
 
 Sistema web y móvil para control de acceso y asistencia estudiantil utilizando **PHP**, **Kotlin** y **RFID**.
 
@@ -159,7 +150,7 @@ Sistema web y móvil para control de acceso y asistencia estudiantil utilizando 
 </td>
 <td width="50%" valign="top">
 
-### 🌊 AXOCyT: Al rescate de la cuenca Lerma-Chapala-Santiago
+### AXOCyT: Al rescate de la cuenca Lerma-Chapala-Santiago
 
 Desarrollo de una aplicación móvil con **Flutter** para el monitoreo y reporte de incidencias ambientales por parte de ciudadanos.
 
@@ -173,7 +164,7 @@ Desarrollo de una aplicación móvil con **Flutter** para el monitoreo y reporte
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
 
@@ -190,7 +181,7 @@ Desarrollo de una aplicación móvil con **Flutter** para el monitoreo y reporte
 
 ---
 
-## 🐱 Gráfica de Contribuciones
+## Gráfica de Contribuciones
 
 <div align="center">
 
