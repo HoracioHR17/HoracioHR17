@@ -1,9 +1,7 @@
 <div align="center">
 
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZiN2pmanBhMGQwZGM0MG9vNjFuc2M3NHRzcXZ0NWNlN3Y4OHRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gI7Nlpl4Qsd7jol7Wb/giphy.gif" />
-
 <h1>Ángel Horacio Hernández Ramírez</h1>
-<h3>@ HoracioHR17</h3>
+<h3>@HoracioHR17</h3>
 
 <p>
   "Despite everything, it's still you."
@@ -21,7 +19,7 @@
   <a href="https://www.facebook.com/bold.equation.9/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://discord.com/channels/horaciohr">
+  <a href="https://discord.com/users/TU_ID_DE_USUARIO">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
   </a>
 </div>
@@ -35,16 +33,18 @@
 ---
 
 ## Sobre mí
+
 Estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Veracruz (ITVER), apasionado por la ciencia de datos y la inteligencia artificial.
 
-He desarrollado soluciones web y móviles orientadas a automatización, análisis de datos, sistemas inteligentes y problemáticas ambientales reales, participando en competencias nacionales de innovación tecnológica lo es el InnovaTecNM.
+He desarrollado soluciones web y móviles orientadas a automatización, análisis de datos, sistemas inteligentes y problemáticas ambientales reales, participando en competencias nacionales de innovación tecnológica como el InnovaTecNM.
+
 ---
 
 ## Logros
 
 <div align="center">
 
-| | Premio | Descripción | Año |
+| Premio | Competencia | Año |
 |:---|:---|:---:|
 | **1er Lugar** | Hackatec · Ecosistemas de Desarrollo — TECNM InnovaTecNM (Local) | 2026 |
 | **2do Lugar** | Hackatec · Resiliencia Ambiental — TECNM InnovaTecNM (Nacional) | 2025 |
@@ -58,6 +58,7 @@ He desarrollado soluciones web y móviles orientadas a automatización, análisi
 ## Tecnologías y Herramientas
 
 ### Lenguajes de Programación
+
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -72,6 +73,7 @@ He desarrollado soluciones web y móviles orientadas a automatización, análisi
 </div>
 
 ### Frameworks y Tecnologías
+
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -87,6 +89,7 @@ He desarrollado soluciones web y móviles orientadas a automatización, análisi
 </div>
 
 ### IA y Ciencia de Datos
+
 <div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -98,6 +101,7 @@ He desarrollado soluciones web y móviles orientadas a automatización, análisi
 </div>
 
 ### Herramientas de Desarrollo
+
 <div align="center">
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -171,11 +175,9 @@ Desarrollo de una aplicación móvil con **Flutter** para el monitoreo y reporte
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HoracioHR17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoracioHR17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=HoracioHR17&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)
+<img src="https://streak-stats.demolab.com?user=HoracioHR17&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 </div>
 
@@ -185,7 +187,9 @@ Desarrollo de una aplicación móvil con **Flutter** para el monitoreo y reporte
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HoracioHR17&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoracioHR17&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" width="100%"/>
+</a>
 
 </div>
 
