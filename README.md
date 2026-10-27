@@ -43,6 +43,7 @@ He desarrollado soluciones web y móviles orientadas a automatización, análisi
 
 | Premio | Competencia | Año |
 |:---|:---|:---:|
+| **2do Lugar** | Hackatec · Ecosistemas de Desarrollo — TECNM InnovaTecNM (Regional) | 2026 |
 | **1er Lugar** | Hackatec · Ecosistemas de Desarrollo — TECNM InnovaTecNM (Local) | 2026 |
 | **2do Lugar** | Hackatec · Resiliencia Ambiental — TECNM InnovaTecNM (Nacional) | 2025 |
 | **1er Lugar** | Concurso Nacional de Prototipos y Proyectos de Emprendimiento — DGETI (Estatal) | 2023 |
@@ -83,6 +84,7 @@ He desarrollado soluciones web y móviles orientadas a automatización, análisi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SAP B1 y SAP Service Layer](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 
 </div>
 
@@ -110,6 +112,7 @@ He desarrollado soluciones web y móviles orientadas a automatización, análisi
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
