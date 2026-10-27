@@ -19,9 +19,6 @@
   <a href="https://www.facebook.com/bold.equation.9/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://discord.com/users/TU_ID_DE_USUARIO">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-  </a>
 </div>
 
 </div>
@@ -69,6 +66,7 @@ He desarrollado soluciones web y móviles orientadas a automatización, análisi
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
@@ -187,9 +185,7 @@ Desarrollo de una aplicación móvil con **Flutter** para el monitoreo y reporte
 
 <div align="center">
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoracioHR17&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" width="100%"/>
-</a>
+<img src="https://ghchart.rshah.org/A78BFA/HoracioHR17" alt="Contribuciones de HoracioHR17" width="100%"/>
 
 </div>
 
